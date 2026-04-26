@@ -55,6 +55,12 @@ Resultado esperado: status 200/201
 Resultado obtenido: ❌ 403 Forbidden / 405 Method Not Allowed
 5. Resultados y hallazgos
 
+## 🔍 Key Findings
+
+- Se detectaron errores críticos en validación de datos (500 en lugar de 400)
+- Inconsistencias en autenticación entre endpoints
+- Comportamiento inesperado en método DELETE (405)
+
 Durante la ejecución de pruebas se identificaron comportamientos importantes:
 
 🐞 Bug 1: Manejo incorrecto de errores en creación de booking
