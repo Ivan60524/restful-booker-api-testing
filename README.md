@@ -1,3 +1,8 @@
+# 🧪 API Testing Project – Restful Booker
+
+QA Engineer Portfolio Project | Iván Suárez
+
+
 🧾 Proyecto: Testing de API – Restful Booker
 1. Contexto
 
